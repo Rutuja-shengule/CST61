@@ -8,6 +8,8 @@ public class vehicle {
 			System.out.println("price");
 			System.out.println("Vehicleprice");
 			System.out.println("Vehicleprice");
+			System.out.println("Vehicleprice");
+			
 			
 			
 		}
