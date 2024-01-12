@@ -9,7 +9,7 @@ public class vehicle {
 			System.out.println("Vehicleprice");
 			System.out.println("Vehicleprice");
 			System.out.println("Vehicleprice");
-			
+			System.out.println("kia");
 			
 			
 		}
